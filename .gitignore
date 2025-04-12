@@ -76,3 +76,4 @@ crashlytics-build.properties
 /CI_ThirdPerson/Logs
 /CI_ThirdPerson/Temp
 /CI_ThirdPerson/UserSettings
+/CI_ThirdPerson/.vscode
