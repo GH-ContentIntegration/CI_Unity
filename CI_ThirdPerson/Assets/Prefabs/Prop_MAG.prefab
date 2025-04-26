@@ -63,6 +63,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -168,6 +169,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -218,6 +220,27 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3053012585887117146, guid: 465c80044113a421abfee8f736c3ff89,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3053012585887117146, guid: 465c80044113a421abfee8f736c3ff89,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    - target: {fileID: 3053012585887117146, guid: 465c80044113a421abfee8f736c3ff89,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 3053012585887117146, guid: 465c80044113a421abfee8f736c3ff89,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: 30fa68ce467463643a86b839ca0eb195,
+        type: 3}
     - target: {fileID: 4061996668901510470, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_Name
@@ -226,17 +249,17 @@ PrefabInstance:
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 14.557965
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.613
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 16.61125
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
