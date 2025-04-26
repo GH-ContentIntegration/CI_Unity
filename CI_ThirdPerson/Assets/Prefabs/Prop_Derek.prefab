@@ -11,22 +11,22 @@ PrefabInstance:
     - target: {fileID: 4061996668901510470, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_Name
-      value: Prop Variant 1
+      value: Prop_Derek
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 4.476
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 2.797
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 16.68
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
