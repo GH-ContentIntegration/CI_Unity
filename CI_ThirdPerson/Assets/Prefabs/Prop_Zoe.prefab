@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &4342542198792851544
+--- !u!1001 &5386015574540085349
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -11,22 +11,22 @@ PrefabInstance:
     - target: {fileID: 4061996668901510470, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_Name
-      value: Prop_Derek
+      value: Prop_Zoe
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.476
+      value: 2.62
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.797
+      value: 5.38
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 16.68
+      value: 16.85
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
