@@ -60,9 +60,16 @@ void Update()
     Vector3 GetRandomPositionWithinArea()
 {
     Vector3 randomOffset = new Vector3(
-        Random.Range(-areaSize.x / 2, areaSize.x / 2),
-        Random.Range(-areaSize.y / 2, areaSize.y / 2),
-        Random.Range(-areaSize.z / 2, areaSize.z / 2)
+
+        // Enable for scaled offset
+        //Random.Range(-areaSize.x / 2, areaSize.x / 2),
+        //Random.Range(-areaSize.y / 2, areaSize.y / 2),
+        //Random.Range(-areaSize.z / 2, areaSize.z / 2)
+
+
+        Random.Range(-areaSize.x, areaSize.x),
+        Random.Range(-areaSize.y, areaSize.y),
+        Random.Range(-areaSize.z, areaSize.z)
     );
 
     return areaCenter + randomOffset;
