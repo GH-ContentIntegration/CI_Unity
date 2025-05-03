@@ -63,7 +63,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prop_Karis_Static Variant
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2736890932441670636, guid: 944b411c4702a46258f1ef88824e5c82, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
