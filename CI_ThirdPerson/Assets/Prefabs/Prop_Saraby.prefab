@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: 4061996668901510470, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_Name
-      value: Prop Variant
+      value: Prop_Saraby
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
