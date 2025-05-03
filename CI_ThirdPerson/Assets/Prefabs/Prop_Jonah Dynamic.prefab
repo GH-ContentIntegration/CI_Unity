@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8620673350284376549}
   - component: {fileID: 8556092291699052061}
   m_Layer: 0
-  m_Name: Prop_Jonah 2
+  m_Name: Prop_Jonah Dynamic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 8664322376609661791}
   - component: {fileID: 5231238356375038455}
   m_Layer: 0
-  m_Name: Alexis_Prop_Static
+  m_Name: Alexis_Prop_added
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
