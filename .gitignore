@@ -78,3 +78,5 @@ crashlytics-build.properties
 /CI_ThirdPerson/UserSettings
 /CI_ThirdPerson/.vscode
 CI_ThirdPerson/ProjectSettings/ShaderGraphSettings.asset
+CI_ThirdPerson/Packages/manifest.json
+CI_ThirdPerson/Packages/packages-lock.json
