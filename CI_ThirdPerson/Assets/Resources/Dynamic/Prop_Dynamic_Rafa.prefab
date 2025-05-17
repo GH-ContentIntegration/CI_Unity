@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: 2298942436263424775, guid: f078776eed00042a6a27a5a9b4e5395f,
         type: 3}
       propertyPath: m_Name
-      value: Prop_Dynamic Variant
+      value: Prop_Dynamic_Rafa
       objectReference: {fileID: 0}
     - target: {fileID: 7825164804702281875, guid: f078776eed00042a6a27a5a9b4e5395f,
         type: 3}
@@ -66,5 +66,36 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2298942436263424775, guid: f078776eed00042a6a27a5a9b4e5395f,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -5366067905287535859}
   m_SourcePrefab: {fileID: 100100000, guid: f078776eed00042a6a27a5a9b4e5395f, type: 3}
+--- !u!1 &5533434079910686143 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2298942436263424775, guid: f078776eed00042a6a27a5a9b4e5395f,
+    type: 3}
+  m_PrefabInstance: {fileID: 5993674335344172728}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &-5366067905287535859
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5533434079910686143}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f3807d19d76d2864ea938aa94c85ff1a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
