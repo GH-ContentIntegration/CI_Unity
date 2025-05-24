@@ -41,7 +41,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1334512549796339045}
-  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: -2662211941425254181, guid: 086dd537cdf2f5d6aafb5b107e16d2ba, type: 3}
 --- !u!23 &7277641853691534432
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -239,12 +239,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
-      objectReference: {fileID: -876546973899608171, guid: 30fa68ce467463643a86b839ca0eb195,
-        type: 3}
+      objectReference: {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 4061996668901510470, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
       propertyPath: m_Name
-      value: Prop_MAG
+      value: Prop_MelissaGray
       objectReference: {fileID: 0}
     - target: {fileID: 5413597695633235666, guid: 465c80044113a421abfee8f736c3ff89,
         type: 3}
