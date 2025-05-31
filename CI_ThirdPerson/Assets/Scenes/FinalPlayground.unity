@@ -329,7 +329,7 @@ PrefabInstance:
     - target: {fileID: 7148578951912068830, guid: 250083a6cfc931b4caca769897000d73,
         type: 3}
       propertyPath: m_Name
-      value: ChaezenPrefab
+      value: DamonPrefab
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
